@@ -5,7 +5,7 @@ This repository contains all the materials from our Deep Learning project.
 
 # Presentation of our project !
 
-:rocket: **Our mission** : Detect trashes on picture taken underwater. 
+:rocket: **Our mission** : Detect trashes on pictures taken underwater. 
 
 :microscope: **How ?** : By using the negative energy of trashes on the water surface ... Ok, of course, deep learning. 
 
