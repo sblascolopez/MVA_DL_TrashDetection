@@ -23,6 +23,7 @@ We will compare two kind of methods :
 For each method (DETR or Faster RCNN), we create a folder containing two subfolders :
 
 - Training : In the Training folder, there are all the notebooks used in order to train and evaluate each algorithm.
+  - For RCNN : we tried to implement it [without torchvision functions](Faster RCNN/Training/Attempt - Code from scratch/anchors_boxes.ipynb) but when we tried to train it, we got some issues... So we use Torchvision
 - Prediction : In the Prediction folder, There are only notebooks that provide functions in order to test our models on images.
 
 # Some results !
